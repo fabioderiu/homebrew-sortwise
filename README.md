@@ -2,6 +2,9 @@
 
 AI-powered file organizer for macOS.
 
+Repository contributors and agents should read [AGENTS.md](AGENTS.md) and
+[REPOSITORIES.md](REPOSITORIES.md) before starting work.
+
 ## Install the CLI
 
 ```bash
